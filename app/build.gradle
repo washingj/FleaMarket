@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.1"
 
     defaultConfig {
-        applicationId "com.example.fragmenttabhostviewpager"
+        applicationId "com.skyness.fleamarket"
         minSdkVersion 8
         targetSdkVersion 19
     }

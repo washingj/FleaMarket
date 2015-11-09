@@ -4,4 +4,4 @@
     <item android:drawable="@drawable/icon_second_press" android:state_checked="true"/>
     <item android:drawable="@drawable/icon_second_normal"/>
 
-</selector><!-- From: file:/D:/Android/AndroidStudioProjects/FragmentTabhostViewpager/app/src/main/res/drawable/tab_second_btn.xml -->
+</selector><!-- From: file:/D:/GitHub/FleaMarket/app/src/main/res/drawable/tab_second_btn.xml -->

@@ -19,14 +19,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3668f11-e807-43dc-8751-e75f398f7e22" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\GitHub\FleaMarket\FragmentTabhostViewpager.iml" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\FleaMarket\app\build\generated\source\buildConfig\androidTest\debug\com\example\fragmenttabhostviewpager\test\BuildConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\FleaMarket\app\build\generated\source\buildConfig\debug\com\example\fragmenttabhostviewpager\BuildConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\FleaMarket\app\build\generated\source\r\debug\com\example\fragmenttabhostviewpager\R.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\FleaMarket\app\src\main\java\com\example\fragmenttabhostviewpager\Fragment1.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\FleaMarket\app\src\main\java\com\example\fragmenttabhostviewpager\Fragment2.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\FleaMarket\app\src\main\java\com\example\fragmenttabhostviewpager\Fragment3.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\FleaMarket\app\src\main\java\com\example\fragmenttabhostviewpager\MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\FleaMarket\app\build\intermediates\classes\androidTest\debug\com\example\fragmenttabhostviewpager\test\BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\FleaMarket\app\build\intermediates\classes\debug\com\example\fragmenttabhostviewpager\BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\FleaMarket\app\build\intermediates\classes\debug\com\example\fragmenttabhostviewpager\Fragment1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\FleaMarket\app\build\intermediates\classes\debug\com\example\fragmenttabhostviewpager\Fragment2.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\FleaMarket\app\build\intermediates\classes\debug\com\example\fragmenttabhostviewpager\Fragment3.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\FleaMarket\app\build\intermediates\classes\debug\com\example\fragmenttabhostviewpager\MainActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\FleaMarket\app\build\intermediates\classes\debug\com\example\fragmenttabhostviewpager\MainActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\FleaMarket\app\build\intermediates\classes\debug\com\example\fragmenttabhostviewpager\MainActivity$MenuAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\FleaMarket\app\build\intermediates\classes\debug\com\example\fragmenttabhostviewpager\MainActivity$ViewPagerListener.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\FleaMarket\app\build\intermediates\classes\debug\com\example\fragmenttabhostviewpager\MainActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\FleaMarket\app\build\intermediates\classes\debug\com\example\fragmenttabhostviewpager\R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\FleaMarket\app\build\intermediates\classes\debug\com\example\fragmenttabhostviewpager\R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\FleaMarket\app\build\intermediates\classes\debug\com\example\fragmenttabhostviewpager\R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\FleaMarket\app\build\intermediates\classes\debug\com\example\fragmenttabhostviewpager\R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\FleaMarket\app\build\intermediates\classes\debug\com\example\fragmenttabhostviewpager\R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\FleaMarket\app\build\intermediates\classes\debug\com\example\fragmenttabhostviewpager\R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\FleaMarket\app\build\intermediates\classes\debug\com\example\fragmenttabhostviewpager\R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\FleaMarket\app\build\intermediates\classes\debug\com\example\fragmenttabhostviewpager\R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\FleaMarket\app\build\intermediates\classes\debug\com\example\fragmenttabhostviewpager\R.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\FleaMarket\app\build\intermediates\dex\debug\classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\FleaMarket\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-73b9883bfda7e9a6ae205d0e99c174e73ba72aaa.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\FleaMarket\app\build\outputs\apk\app-debug-unaligned.apk" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\FleaMarket\app\build\outputs\apk\app-debug.apk" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" />
@@ -34,29 +49,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug-androidTest.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/fragment1.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/fragment1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/fragment2.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/fragment2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/fragment3.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/fragment3.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeAssets/androidTest/debug/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeAssets/androidTest/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeAssets/debug/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeAssets/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResourcesandroidTest/debug/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResourcesandroidTest/debug/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResourcesdebug/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResourcesdebug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_19_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_19_1_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/tab_first_btn.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/tab_first_btn.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/tab_more_btn.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/tab_more_btn.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/tab_second_btn.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/tab_second_btn.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-w820dp/values-w820dp.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-w820dp/values-w820dp.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="FragmentTabhostViewpager.iws" />
@@ -85,70 +79,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/skyness/fleamarket/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3533058">
-              <caret line="155" column="12" selection-start-line="155" selection-start-column="12" selection-end-line="155" selection-end-column="12" />
-              <folding>
-                <element signature="e#4950#4951#0" expanded="true" />
-                <element signature="e#4958#4959#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.0357144">
-              <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fragment1.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment1.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Fragment1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/skyness/fleamarket/Fragment1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.36982968">
+              <caret line="160" column="12" selection-start-line="160" selection-start-column="12" selection-end-line="160" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -1951,6 +1886,13 @@
       <option name="number" value="Default" />
       <updated>1445980536561</updated>
     </task>
+    <task id="LOCAL-00001" summary="change packageName">
+      <created>1447110736635</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1447110736635</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1968,9 +1910,9 @@
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12606473" sideWeight="0.5060514" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2504259" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -2005,6 +1947,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="change packageName" />
+    <option name="LAST_COMMIT_MESSAGE" value="change packageName" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -2189,7 +2135,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.36982968">
           <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
           <folding />
         </state>
@@ -2197,7 +2143,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/skyness/fleamarket/Fragment1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.08029197">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding />
         </state>
@@ -2205,7 +2151,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.0357144">
+        <state vertical-scroll-proportion="0.14882506">
           <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
           <folding />
         </state>
@@ -2235,12 +2181,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/skyness/fleamarket/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3533058">
-          <caret line="155" column="12" selection-start-line="155" selection-start-column="12" selection-end-line="155" selection-end-column="12" />
-          <folding>
-            <element signature="e#4950#4951#0" expanded="true" />
-            <element signature="e#4958#4959#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.36982968">
+          <caret line="160" column="12" selection-start-line="160" selection-start-column="12" selection-end-line="160" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
